@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1773755840 source:c:\users\usuario\desktop\edii\practicas edii\usuario\main.cpp
+	<iostream>
+	"Multiconjunto.h"
+	"Persona.h"
+
+1773150176 c:\users\usuario\desktop\edii\practicas edii\usuario\multiconjunto.h
+
+1773754976 c:\users\usuario\desktop\edii\practicas edii\usuario\persona.h
+	<string>
+
